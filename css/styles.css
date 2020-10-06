@@ -1,0 +1,13 @@
+
+#menu{
+    color: white;
+    width: 150px;
+    height: 350px;
+    border-width: 10px;
+    border-style: #FF8000;
+    border-color: blue;
+    background-color: black;
+  }
+ #logo{
+    color: green;
+  }
